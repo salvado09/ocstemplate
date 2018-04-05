@@ -7,7 +7,7 @@ echo "Installing NoypiSSH Theme"
 cd ~ > /dev/null 2>&1 &
 mkdir M4rshall > /dev/null 2>&1 &
 cd M4rshall
-wget https://github.com/m4rsh4ll/ocstemplate/raw/master/NoypiSSH.tgz && tar zxvf NoypiSSH.tgz
+wget https://github.com/salvado09/ocstemplate/raw/master/NoypiSSH.tgz && tar zxvf NoypiSSH.tgz
 mv asset /home/vps/public_html > /dev/null 2>&1 &
 mv view /home/vps/public_html > /dev/null 2>&1 &
-echo "Enjoy using NoypiSSH Theme -M4rshall"
+echo "Enjoy using NoypiSSH Theme -M4rshall-raf"
